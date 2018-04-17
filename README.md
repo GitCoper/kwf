@@ -7,5 +7,8 @@ It features:
 
 
 Instruction:
-to open: "npm run build" and "npm run dev",
-projekt should run on http://localhost:8080/
+to open: "npm run dev",
+projekt should run on http://localhost:8080/ ,
+
+to make dist folder with packed files :  "npm run build"
+
