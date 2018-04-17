@@ -1,0 +1,42 @@
+/*article {
+  width: 70vw;
+
+  position:relative;
+  min-height: 912px;
+  main {
+    width:34vw;
+    position:absolute;
+    left:0;
+  }
+  aside {
+    width:34vw;
+    position:absolute;
+    right:0;
+    bottom:0;
+
+  }
+}
+
+*/
+article{
+  margin: auto;
+  width: 80vw;
+  padding: -20px;
+}
+.margin{
+  padding-top: 100px;
+  border-bottom: aqua 7px solid ;
+  width: 75vw;
+}
+.part1{
+  background: linear-gradient(to right,rgba(208,162,199,0.1)50%,  rgba(147,71,133,0.2))50%;
+  height:100%;
+  width: 80vw;
+
+}
+.part2{
+  background: linear-gradient(to left, rgba(161,236,199,0.1)50%, rgba(0,151,70,0.2))50%;
+  height:100%;
+  width: 80vw;
+
+}

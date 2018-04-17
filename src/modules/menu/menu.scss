@@ -1,0 +1,43 @@
+.navbar.navbar-fixed-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+
+}
+.navbar.navbar-fixed-top + .relativeSpace {
+  min-height: 104px;
+  width:100%;
+
+}
+.navbar-brand{
+  :hover { transform: scale(1.1); }
+}
+
+.navbar {
+  overflow: hidden;
+  -webkit-backdrop-filter: blur(20px);
+  opacity: 0.95;
+
+  .nav-link{
+
+
+      text-align: center;
+      align-content: center;
+      -webkit-box-align:center;
+    height: 100px;
+    display:table-cell;
+    vertical-align:middle;
+    }
+.nav-item{
+  display: table;
+}
+  button span{
+    height: 70px;
+  }
+}
+
+
+
+
+
